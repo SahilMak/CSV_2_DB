@@ -1,0 +1,51 @@
+body {
+	color: #D8F0F6;
+}
+
+img {
+	display: block;
+	margin: auto;
+}
+
+h1 {
+	text-align: center;
+	font-size: 72px;
+	font-weight: bold;
+	font-family: "Helvetica Neue", cursive;
+	color: #373737;
+	margin-top: -5px;
+}
+
+table {
+	margin: 100px auto auto auto;
+}
+
+td {
+	padding: 10px;
+	text-align: center;
+	vertical-align: middle;
+	font-size: 48px;
+	font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+	color: #373737;
+}
+
+button {
+	background-color: #E85C41;
+	height: 64px;
+	width: 205px;
+	border-radius: 4px;
+}
+
+span {
+	font-size: 48px;
+	font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+	color: #F5B7AB;
+}
+
+div {
+	background-color: #E85C41;
+	height: 64px;
+	width: 205px;
+	border-radius: 3px;
+	text-align: center;
+}
