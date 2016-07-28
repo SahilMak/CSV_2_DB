@@ -2,5 +2,5 @@ from django.shortcuts import render
 from django.http import HttpResponse
 
 
-def csv(request):
+def index(request):
     return HttpResponse("Placeholder.")
